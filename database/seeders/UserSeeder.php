@@ -23,6 +23,7 @@ class UserSeeder extends Seeder
             'role_id' => 1,
             'password' => 'password',
         ]);
+
         User::create([
             'name' => 'Peter Parker',
             'username' => 'peter.parker',
