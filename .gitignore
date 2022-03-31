@@ -11,5 +11,5 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 
-*/resources/views/vendor/
-/public/vendor/
+/resources/views/vendor/
+*/public/vendor/
